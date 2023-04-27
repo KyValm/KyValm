@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and mobile development**
 
-- 👨‍💻 All of my projects are available at [kyvalm.com](kyvalm.com)
+- 👨‍💻 All of my projects are available at [https://www.kyvalm.com/]https://www.kyvalm.com/)
 
 - 💬 Ask me about **My favorite Star wars movie!**
 
